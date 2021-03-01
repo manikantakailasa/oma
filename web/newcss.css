@@ -1,0 +1,90 @@
+             
+           .t1
+         {
+             border-top-left-radius:20px;
+             border-top-right-radius:20px;
+             cursor:pointer;
+             text-align:center;
+             background:-webkit-linear-gradient(gray,white);
+         }
+         .t1:hover
+         {
+             color:brown;
+             background:-webkit-linear-gradient(skyblue,white);
+         }
+         .l1
+         {
+             font-family:serif;
+             text-align:left;
+             font-style:normal;
+             box-shadow:0 0 1px black;
+             background:-webkit-linear-gradient(left,lightgray,gray);
+             cursor:pointer;
+             font-size:22px;
+         }
+         .l1:hover
+         {
+          background:-webkit-linear-gradient(left,skyblue,gray);   
+         }
+         .men
+         {
+          background:-webkit-linear-gradient(brown,black);
+          color:white;      
+         }
+          
+           td ul
+           {
+               background:#33ccff;
+               display:inline;
+               transition:all 0.2s;
+               list-style: none;
+               text-decoration:none; 
+           }
+           td ul li
+           {
+            font-size:25px;
+            margin-right:4px; 
+            float:left;
+            list-style-type:none;
+            text-decoration:none;
+            padding:4px;
+            border-right:2px;
+            border-color:black;
+            
+           }
+           td ul li:hover
+           {
+            color:white; 
+            cursor:pointer; 
+           }
+           div ul li
+           {
+            float:bottom;   
+           }
+           .gnn
+           {
+            width:100%;
+            padding:2px;
+            font-size:26px;
+            box-shadow:0 0 2px gray;
+            background-color:white;
+            cursor:pointer;
+           }
+             b
+           {
+            font-size:70px;
+            color:#0099ff;
+            text-shadow:0 0 2px #0099ff;
+            text-align:center;
+            float:left;
+           }
+           .l1
+           {
+               padding:4px;
+               font-size: 20px;
+               box-shadow: 0 0 6px #cdcdcd;
+           }
+           .l1:hover
+           {
+             box-shadow:0 0 6px #660000;
+           }
